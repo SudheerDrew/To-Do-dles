@@ -22,6 +22,16 @@ The architecture of this application relies and complies with the following poin
 ## Built-With :
     - Kotlin
     - Room Database
+    - MVVM (Model - View - ViewModel)
+    - LiveData
+    - Navigation Component
+    - RecyclerView
+    - View Binding
+    - Alarm Manager
+    - Broadcast Receiver
+    - Shared Preferences
+    - Coroutines
+    - Room
 
 ## Requirements:
     - Android Studio
