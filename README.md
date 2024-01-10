@@ -53,5 +53,5 @@ The architecture of this application relies and complies with the following poin
 
 
 ## Screenshots :
-
+<img src="https://github.com/SudheerDrew/To-Do-dles/tree/master/app/src/Screenshots" alt="Screenshot1">
 https://drive.google.com/drive/folders/1DA-Tk0mS7D34rMZ9GAnFSMqtO3Nw68Wx?usp=sharing
