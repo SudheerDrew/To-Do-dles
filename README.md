@@ -1,4 +1,4 @@
-# ToDo App
+# To-Do-dles App
 
 Task Management App based on Modern Android Application tech-stacks and MVVM architecture.
 
@@ -33,7 +33,7 @@ The architecture of this application relies and complies with the following poin
     - Coroutines
     - Room
 
-## Requirements:
+## Requirements :
     - Android Studio
     - minSdk 24
     - targetSdk 33
@@ -52,6 +52,6 @@ The architecture of this application relies and complies with the following poin
     - Android Studio will compile the code and install the app on the selected device/emulator. Once installation is complete, the app will automatically start running.
 
 
-## Screnshots :
+## Screenshots :
 
 https://drive.google.com/drive/folders/1DA-Tk0mS7D34rMZ9GAnFSMqtO3Nw68Wx?usp=sharing
