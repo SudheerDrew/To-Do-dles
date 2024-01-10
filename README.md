@@ -12,12 +12,12 @@ The architecture of this application relies and complies with the following poin
 
 
 ## Functionalities :
-    - Title
-    - Description
-    - Task status
-    - Category
-    - Due Date
-    - Reminder
+    - Title and Description : Users can set a title and description for each todo item.
+    - Task status : Mark tasks as "In Progress," or "Completed."
+    - Category : Create categories and filter the tasks on category basis.
+    - Due Date : Assign a due date to keep track of when the task needs to be completed.
+    - Reminder : Provides a Notification on reaching the Deadline.
+    - Notification : Provides a Reminder at the Time set.
 
 ## Built-With :
     - Kotlin
