@@ -54,6 +54,6 @@ The architecture of this application relies and complies with the following poin
 
 ## Screenshots :
 <img src="./app/src/Screenshots/Todo.png" alt="Screenshot1">
-<img src="https://github.com/SudheerDrew/To-Do-dles/tree/master/app/src/Screenshots/Todo1.png" alt="Screenshot2">
-<img src="https://github.com/SudheerDrew/To-Do-dles/tree/master/app/src/Screenshots/Todo2.png" alt="Screenshot3">
-<img src="https://github.com/SudheerDrew/To-Do-dles/tree/master/app/src/Screenshots/Todo3.jpg" alt="Screenshot4">
+<img src="./app/src/Screenshots/Todo1.png" alt="Screenshot2">
+<img src="./app/src/Screenshots/Todo2.png" alt="Screenshot3">
+<img src="./app/src/Screenshots/Todo3.jpg" alt="Screenshot4">
