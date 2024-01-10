@@ -40,3 +40,8 @@ The architecture of this application relies and complies with the following poin
     - Connect your Android device to the computer via USB or launch an emulator from Android Studio if you prefer to run the app on a virtual device.
     - If multiple devices are connected (physical device/emulators), select the desired device where you want to run the app.
     - Android Studio will compile the code and install the app on the selected device/emulator. Once installation is complete, the app will automatically start running.
+
+
+## Screnshots :
+
+https://drive.google.com/drive/folders/1DA-Tk0mS7D34rMZ9GAnFSMqtO3Nw68Wx?usp=sharing
