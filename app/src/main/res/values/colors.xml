@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="low">#FF06d6a0</color>
+    <color name="medium">#FFff7d00</color>
+    <color name="high">#FFE46161</color>
+
+    <color name="heat0">#B34C4C4C</color>
+    <color name="heat1">#B3118ab2</color>
+    <color name="heat2">#B3FF7D00</color>
+    <color name="heat3">#B3EF476F</color>
+    <color name="fire_add_icon">#5E5E5E</color>
+    <color name="ill_outer">#0984E3</color>
+    <color name="ill_inner">#FBC02D</color>
+
+    <color name="header">#2D2D2D</color>
+    <color name="edit_text_bg">#10716C6C</color>
+    <color name="cardview">#FEFBFB</color>
+    <color name="logclick_menu_background">#CCEDEDED</color>
+    <color name="list_card_bg">#FFFFFFFF</color>
+    <color name="priority_text">#FFFFFFFF</color>
+    <color name="reminder_background">#BE575757</color>
+    <color name="searchview_color">#000000</color>
+    <color name="reminder_card_background">#FFFFFFFF</color>
+    <color name="filter_icon">#353535</color>
+    <color name="cursor_color">#000000</color>
+    <color name="drawer_text">#000000</color>
+    <color name="drawer_icon">#000000</color>
+    <color name="drawer_selected">#AAAAAA</color>
+
+
+    <color name="icon_light">#B14B4B4B</color>
+    <color name="icon_dark">#000000</color>
+    <color name="title">#000000</color>
+
+    <color name="button_color">#FF073B4C</color>
+    <color name="on_button_color">#FFFFFF</color>
+
+    <color name="list_color_all">#FF073B4C</color>
+    <color name="list_color_new">#C2373738</color>
+    <color name="list_color_purple">#FFb388eb</color>
+    <color name="list_color_blue">#FF118ab2</color>
+    <color name="list_color_green">#FF06d6a0</color>
+    <color name="list_color_yellow">#FFffd166</color>
+    <color name="list_color_red">#FFef476f</color>
+    <color name="list_color_brown">#FF99582a</color>
+    <color name="list_color_pink">#FFfb6f92</color>
+    <color name="list_color_orange">#FFff7d00</color>
+
+</resources>
